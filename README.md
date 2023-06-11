@@ -21,3 +21,7 @@ For some, adjuster needs to have the tag Jero, check the unit start first,
 and some will automatically deactivate while getting further from programming board
 
 Check details in the unit start of the script
+
+-
+
+WARNING! AR 3D text scripts only take alphanumeric characters from A to Z and from 0 to 9
